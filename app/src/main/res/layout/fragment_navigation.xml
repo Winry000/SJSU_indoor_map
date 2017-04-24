@@ -1,0 +1,107 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="droidmentor.bnv_with_viewpager.Fragment.NavigationFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <Button
+        android:text="Set End"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:id="@+id/button4"
+        android:onClick="onSearch"
+        android:layout_weight="1"
+        android:layout_alignBaseline="@+id/setEndbutton"
+        android:layout_alignBottom="@+id/setEndbutton"
+        android:layout_toRightOf="@+id/addressEndText"
+        android:layout_toEndOf="@+id/addressEndText" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </RelativeLayout>
+
+
+    </RelativeLayout>
+
+    <Button
+        android:text="Set End"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:id="@+id/setEndbutton"
+        android:onClick="endSet"
+        android:layout_weight="1"
+        android:layout_toRightOf="@+id/addressEndText"
+        android:layout_below="@+id/setStartbutton" />
+
+    <Button
+        android:text="Set Start"
+        android:layout_width="156dp"
+        android:layout_height="40dp"
+        android:id="@+id/setStartbutton"
+        android:onClick="startSet"
+        android:layout_weight="1"
+        android:layout_alignBaseline="@+id/addressStartText"
+        android:layout_alignBottom="@+id/addressStartText"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <com.google.android.gms.maps.MapView
+        android:id="@+id/mapView"
+        android:layout_width="match_parent"
+        android:layout_height="430dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="Path"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:id="@+id/button3"
+        android:onClick="onSearch"
+        android:layout_weight="1"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_toRightOf="@+id/button4"
+        android:layout_toEndOf="@+id/button4"
+        android:layout_alignBottom="@+id/setEndbutton"
+        android:layout_alignTop="@+id/button4" />
+
+    <EditText
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="End: (Room Num)"
+        android:ems="10"
+        android:id="@+id/addressEndText"
+        android:selectAllOnFocus="true"
+        android:layout_alignBaseline="@+id/setEndbutton"
+        android:layout_alignBottom="@+id/setEndbutton"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Start (Room Num)"
+        android:ems="10"
+        android:id="@+id/addressStartText"
+        android:layout_below="@+id/relativeLayout2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+</RelativeLayout>

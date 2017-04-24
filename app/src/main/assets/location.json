@@ -1,0 +1,208 @@
+{
+ "locations": [
+   {
+     "information": "Room 278",
+     "latitude": "37.33667026614389",
+     "longitude": "-121.88216798007488",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 284",
+     "latitude": "37.33656896826769",
+     "longitude": "-121.88192524015903",
+     "snippet": "Computer Engineering and Software Engineering Program"
+   },
+   {
+     "information": "Room 276",
+     "latitude": "37.336715050424544",
+     "longitude": "-121.88220754265785",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 272",
+     "latitude": "37.336792889705954",
+     "longitude": "-121.88226521015167",
+     "snippet": "Aerospace Engineering"
+   },
+   {
+     "information": "Room 268",
+     "latitude": "37.33689631985921",
+     "longitude": "-121.88234500586987",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 256A",
+     "latitude": "37.337005081310025",
+     "longitude": "-121.88238322734833",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 256",
+     "latitude": "37.3370775888564",
+     "longitude": "-121.88246101140976",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 244",
+     "latitude": "37.337282315668354",
+     "longitude": "-121.88236713409424",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 242",
+     "latitude": "37.33733083157586",
+     "longitude": "-121.88227459788322",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 238",
+     "latitude": "37.33735588923008",
+     "longitude": "-121.88221223652363",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 232",
+     "latitude": "37.337543554800355",
+     "longitude": "-121.88182398676872",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 292",
+     "latitude": "37.33678809139641",
+     "longitude": "-121.88143841922283",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 290",
+     "latitude": "37.33672731278244",
+     "longitude": "-121.88156180083752",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 288",
+     "latitude": "37.33670758637963",
+     "longitude": "-121.8816040456295",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 286",
+     "latitude": "37.33663187959635",
+     "longitude": "-121.88177570700645",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 287",
+     "latitude": "37.33658869470694",
+     "longitude": "-121.88173480331898",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 289",
+     "latitude": "37.336668666704796",
+     "longitude": "-121.88157185912132",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 291",
+     "latitude": "37.33674543974265",
+     "longitude": "-121.88140958547592",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 295",
+     "latitude": "37.33682061326618",
+     "longitude": "-121.8812520056963",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 201",
+     "latitude": "37.336953366326064",
+     "longitude": "-121.8810548633337",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 203",
+     "latitude": "37.33704453395423",
+     "longitude": "-121.88112795352936",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 206",
+     "latitude": "37.33703227164811",
+     "longitude": "-121.88120171427727",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 207",
+     "latitude": "37.337198612325686",
+     "longitude": "-121.88124731183052",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 209",
+     "latitude": "37.337282315668354",
+     "longitude": "-121.88131168484688",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 211",
+     "latitude": "37.33735269038108",
+     "longitude": "-121.88136868178844",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 213",
+     "latitude": "37.3374353272702",
+     "longitude": "-121.88143573701382",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 215",
+     "latitude": "37.3375126326648",
+     "longitude": "-121.88149474561214",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 217",
+     "latitude": "37.337591537399305",
+     "longitude": "-121.88155643641949",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 236",
+     "latitude": "37.33744812265135",
+     "longitude": "-121.88198827207088",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 237",
+     "latitude": "37.33744172496103",
+     "longitude": "-121.88213244080544",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 239",
+     "latitude": "37.337407603936875",
+     "longitude": "-121.88220553100109",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 245",
+     "latitude": "37.33729511107556",
+     "longitude": "-121.88243687152863",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 247",
+     "latitude": "37.337282315668354",
+     "longitude": "-121.88246369361877",
+     "snippet": "Students classroom"
+   },
+   {
+     "information": "Room 249",
+     "latitude": "37.33724019743753",
+     "longitude": "-121.8825501948595",
+     "snippet": "Students classroom"
+   }
+ ]
+}
